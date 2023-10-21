@@ -1,0 +1,23 @@
+.register_form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.input_wrapper{
+    display: flex;
+    position: relative;
+    
+}
+.input_wrapper input{
+    // width: 119%;
+}
+.icon_wrapper{
+    position: absolute;
+    top: 51%;
+    right: 7%;
+}
+.icon_wrapper:hover {
+    color: #00fcb6;
+    cursor: pointer;
+  }

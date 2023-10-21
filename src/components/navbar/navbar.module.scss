@@ -1,0 +1,20 @@
+.left ul{
+    display: flex;
+    // justify-content:space-around;
+}
+.left ul li{
+    // margin-right: 20px;
+    padding-left: 30px;
+    padding-top: 15px;
+    padding-bottom: 11px;
+    padding-right: 70px;
+    background: pink;
+}
+.icons{
+display: flex;
+margin-inline-end: auto;
+}
+.image_div{
+    display: flex;
+    width: 80%;
+}
